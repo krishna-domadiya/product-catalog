@@ -1,0 +1,62 @@
+[
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 1,
+    "state": "IN_STOCK",
+    "quantity": 100
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 2,
+    "state": "IN_STOCK",
+    "quantity": 2
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 3,
+    "state": "IN_STOCK",
+    "quantity": 4
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 4,
+    "state": "IN_STOCK",
+    "quantity": 10
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 5,
+    "state": "IN_STOCK",
+    "quantity": 10
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 6,
+    "state": "IN_STOCK",
+    "quantity": 3
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 7,
+    "state": "IN_STOCK",
+    "quantity": 10
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 8,
+    "state": "IN_STOCK",
+    "quantity": 10
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 9,
+    "state": "IN_STOCK",
+    "quantity": 20
+    },
+    {
+    "catalog_object_id": "6F4K33KPNUVDWKZ43KUIFH6K",
+    "product_id": 10,
+    "state": "IN_STOCK",
+    "quantity": 10
+    }
+]
